@@ -58,7 +58,7 @@ This Privacy Policy may be updated from time to time for any reason. The Service
 
 ### Contact Us
 
-If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider.
+If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider at musa561128@gmail.com.
 
 ---
 
@@ -116,4 +116,4 @@ If you have any questions regarding privacy while using the Application, or have
 
 ### お問い合わせ
 
-本アプリ利用時のプライバシーに関してご質問がある場合、または当社の実務についてご質問がある場合は、サービス提供者にお問い合わせください。
+本アプリ利用時のプライバシーに関してご質問がある場合、または当社の実務についてご質問がある場合は、サービス提供者（musa561128@gmail.com）にお問い合わせください。
