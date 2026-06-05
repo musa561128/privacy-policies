@@ -6,6 +6,7 @@ Please select the application below to view its Privacy Policy:
 
 - [AI-900 Exam Prep Android (AI-900模試)](ai-900-exam-prep)
 - [AI-901 Exam Prep Android (AI-901模試)](ai-901-exam-prep)
+- [AB-730 Exam Prep Android (AB-730模試)](ab-730-exam-prep)
 - [PMP Prep Android (PMP模試)](pmp-prep)
 
 ---
