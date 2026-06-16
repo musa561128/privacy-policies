@@ -2,7 +2,7 @@
 
 This repository hosts the privacy policies for mobile applications developed by the service provider.
 
-It utilizes GitHub Pages to serve the Markdown documents as publicly accessible URLs required for Google Play Console submissions.
+It utilizes GitHub Pages to serve the Markdown documents as publicly accessible URLs required for app store submissions, including Google Play Console and App Store Connect.
 
 ## Hosted Policies
 

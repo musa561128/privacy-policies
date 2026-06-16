@@ -1,12 +1,12 @@
 # Privacy Policy / プライバシーポリシー
 
-**Effective Date / 発効日:** June 6, 2026
+**Effective Date / 発効日:** June 17, 2026
 
 ---
 
 ## English
 
-This privacy policy applies to the AB-730 Exam Prep Android application (hereby referred to as "Application") for mobile devices that was created by the developer (hereby referred to as "Service Provider") as a Freemium service. This service is intended for use "AS IS".
+This privacy policy applies to the AB-730 Exam Prep mobile application (hereby referred to as "Application") for Android and iOS devices that was created by the developer (hereby referred to as "Service Provider") as a Freemium service. This service is intended for use "AS IS".
 
 ### Information Collection and Use
 
@@ -18,9 +18,13 @@ The Application collects information when you download and use it. This informat
 
 The Application does not gather precise information about the location of your mobile device.
 
-The Service Provider may use the information you provided to contact you from time to time to provide you with important information, required notices and marketing promotions.
+The Service Provider may use the information you provided to contact you from time to time to provide you with important information and required notices.
 
 For a better experience, while using the Application, the Service Provider may require you to provide us with certain personally identifiable information. The information that the Service Provider requests will be retained by them and used as described in this privacy policy.
+
+### Advertising
+
+The Application does not display third-party advertisements and does not use advertising SDKs.
 
 ### Third Party Access
 
@@ -29,10 +33,10 @@ Only aggregated, anonymized data is periodically transmitted to external service
 Please note that the Application utilizes third-party services that have their own Privacy Policy about handling data. Below are the links to the Privacy Policy of the third-party service providers used by the Application:
 
 *   [Google Play Services](https://policies.google.com/privacy)
-*   [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
+*   [Apple App Store / In-App Purchase](https://www.apple.com/legal/privacy/)
 *   [Google AI/Gemini API](https://policies.google.com/privacy) (Used for the AI Chat functionality within the app)
 
-The Application also utilizes the Google Play Billing Library to handle in-app purchases. The Service Provider does not directly collect or store your payment information. This information is collected and processed securely by Google.
+The Application may utilize Google Play Billing on Android and Apple's in-app purchase system on iOS to handle in-app purchases. The Service Provider does not directly collect or store your payment information. This information is collected and processed securely by Google or Apple, depending on the platform used.
 
 ### Opt-Out Rights
 
@@ -64,7 +68,7 @@ If you have any questions regarding privacy while using the Application, or have
 
 ## 日本語 (Japanese)
 
-本プライバシーポリシーは、開発者（以下「サービス提供者」）がフリーミアムサービスとして作成したモバイル端末向けアプリケーション「AB-730 Exam Prep Android」（以下「本アプリ」）に適用されます。本サービスは「現状有姿」で提供されます。
+本プライバシーポリシーは、開発者（以下「サービス提供者」）がフリーミアムサービスとして作成したAndroidおよびiOS向けモバイルアプリケーション「AB-730 Exam Prep」（以下「本アプリ」）に適用されます。本サービスは「現状有姿」で提供されます。
 
 ### 情報の収集と利用
 
@@ -76,9 +80,13 @@ If you have any questions regarding privacy while using the Application, or have
 
 本アプリは、モバイルデバイスの正確な位置情報は収集しません。
 
-サービス提供者は、重要な情報、必要な通知、およびマーケティングのプロモーションを提供するために、提供された情報を利用して随時お客様に連絡する場合があります。
+サービス提供者は、重要な情報および必要な通知を提供するために、提供された情報を利用して随時お客様に連絡する場合があります。
 
 本アプリをより良くご利用いただくため、サービス提供者は特定の個人識別情報の提供をお願いする場合があります。サービス提供者が要求する情報は、本プライバシーポリシーに記載されている通りに保持および利用されます。
+
+### 広告
+
+本アプリは、第三者広告を表示せず、広告SDKを使用しません。
 
 ### サードパーティのアクセス
 
@@ -87,10 +95,10 @@ If you have any questions regarding privacy while using the Application, or have
 本アプリは、データの取り扱いに関する独自のプライバシーポリシーを持つサードパーティのサービスを利用しています。本アプリで使用されているサードパーティのサービス提供者のプライバシーポリシーへのリンクは以下の通りです：
 
 *   [Google Play 開発者サービス](https://policies.google.com/privacy)
-*   [AdMob](https://support.google.com/admob/answer/6128543?hl=ja)
+*   [Apple App Store / In-App Purchase](https://www.apple.com/legal/privacy/)
 *   [Google AI/Gemini API](https://policies.google.com/privacy) （アプリ内のAIチャット機能に使用）
 
-また、本アプリはアプリ内購入の処理に Google Play Billing Library を利用しています。サービス提供者がお客様の支払い情報を直接収集・保存することはありません。この情報はGoogleによって安全に収集され処理されます。
+また、本アプリはアプリ内購入の処理に、Androidでは Google Play Billing、iOSではAppleのアプリ内購入システムを利用する場合があります。サービス提供者がお客様の支払い情報を直接収集・保存することはありません。この情報は、利用するプラットフォームに応じてGoogleまたはAppleによって安全に収集され処理されます。
 
 ### オプトアウト権
 
