@@ -6,122 +6,138 @@
 
 ## English
 
-This privacy policy applies to the AB-730 Exam Prep mobile application (hereby referred to as "Application") for Android and iOS devices that was created by the developer (hereby referred to as "Service Provider") as a Freemium service. This service is intended for use "AS IS".
+This Privacy Policy applies to the AB-730 Exam Prep mobile application (hereby referred to as the "Application") for Android and iOS devices. The Application is provided by the developer (hereby referred to as the "Service Provider") as a Freemium service and is intended for use "AS IS".
 
 ### Information Collection and Use
 
-The Application collects information when you download and use it. This information may include information such as:
-*   Your device's Internet Protocol address (e.g. IP address)
-*   The pages of the Application that you visit, the time and date of your visit, the time spent on those pages
-*   The time spent on the Application
-*   The operating system you use on your mobile device
+The Application does not require users to create an account and does not intentionally collect information that directly identifies a user, such as name, address, phone number, or email address.
 
-The Application does not gather precise information about the location of your mobile device.
+The Application may process the following information to provide and improve its features:
 
-The Service Provider may use the information you provided to contact you from time to time to provide you with important information and required notices.
+* App usage information, such as learning progress, quiz results, selected answers, and app settings
+* Device and technical information, such as device type, operating system version, app version, and crash or diagnostic information
+* Purchase status information required to unlock paid features
+* Text entered by the user when using AI-powered features, such as AI chat or answer explanation features
 
-For a better experience, while using the Application, the Service Provider may require you to provide us with certain personally identifiable information. The information that the Service Provider requests will be retained by them and used as described in this privacy policy.
+Learning progress, quiz results, selected answers, and app settings are primarily stored on the user's device. The Service Provider does not sell personal data.
+
+The Application does not collect precise location information from the user's device.
 
 ### Advertising
 
 The Application does not display third-party advertisements and does not use advertising SDKs.
 
-### Third Party Access
+### Third-Party Services
 
-Only aggregated, anonymized data is periodically transmitted to external services to help the Service Provider improve the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy policy.
+The Application may use third-party services to provide platform features, process purchases, improve reliability, or provide AI-powered functionality. These services may process data in accordance with their own privacy policies.
 
-Please note that the Application utilizes third-party services that have their own Privacy Policy about handling data. Below are the links to the Privacy Policy of the third-party service providers used by the Application:
+Third-party services used by the Application may include:
 
-*   [Google Play Services](https://policies.google.com/privacy)
-*   [Apple App Store / In-App Purchase](https://www.apple.com/legal/privacy/)
-*   [Google AI/Gemini API](https://policies.google.com/privacy) (Used for the AI Chat functionality within the app)
+* [Google Play Services](https://policies.google.com/privacy) (Android platform services)
+* [Google Play Billing](https://payments.google.com/payments/apis-secure/get_legal_document?ldo=0&ldt=privacynotice) (Android in-app purchases)
+* [Apple App Store / In-App Purchase](https://www.apple.com/legal/privacy/) (iOS platform services and in-app purchases)
+* [Google AI / Gemini API](https://policies.google.com/privacy) (AI-powered functionality, such as AI chat or answer explanations)
 
-The Application may utilize Google Play Billing on Android and Apple's in-app purchase system on iOS to handle in-app purchases. The Service Provider does not directly collect or store your payment information. This information is collected and processed securely by Google or Apple, depending on the platform used.
+When the user uses AI-powered functionality, the text entered by the user and the context necessary to generate a response may be sent to Google AI / Gemini API. Users should not enter personal, confidential, or sensitive information into AI-powered features.
+
+For in-app purchases, the Service Provider does not directly collect or store payment card information. Payment information is processed by Google or Apple, depending on the platform used.
+
+### Data Retention and Deletion
+
+Data stored locally in the Application remains on the user's device until the user deletes it, resets app data, or uninstalls the Application.
+
+If the user contacts the Service Provider by email, the Service Provider may retain the contact information and message contents for the time reasonably necessary to respond to the inquiry and maintain support records.
+
+If the user would like to request deletion of data provided directly to the Service Provider, please contact the Service Provider using the contact information below. The Service Provider will respond within a reasonable time.
 
 ### Opt-Out Rights
 
-You can stop all collection of information by the Application easily by uninstalling it. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
-
-### Data Retention Policy
-
-The Service Provider will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. If you'd like them to delete User Provided Data that you have provided via the Application, please contact them and they will respond in a reasonable time.
+Users can stop the Application from collecting or processing information by uninstalling the Application. Users may also avoid using optional AI-powered features if they do not want text entered into those features to be processed by third-party AI services.
 
 ### Children
 
-The Service Provider does not use the Application to knowingly solicit data from or market to children under the age of 13.
+The Application is not directed to children under the age of 13. The Service Provider does not knowingly collect personally identifiable information from children under 13 years of age.
 
-The Application does not address anyone under the age of 13. The Service Provider does not knowingly collect personally identifiable information from children under 13 years of age. In the case the Service Provider discovers that a child under 13 has provided personal information, the Service Provider will immediately delete this from their servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact the Service Provider so that they will be able to take the necessary actions.
+If the Service Provider becomes aware that a child under 13 has provided personal information, the Service Provider will take reasonable steps to delete such information. If you are a parent or guardian and believe that your child has provided personal information, please contact the Service Provider.
 
 ### Security
 
-The Service Provider is concerned about safeguarding the confidentiality of your information. The Service Provider provides physical, electronic, and procedural safeguards to protect information the Service Provider processes and maintains.
+The Service Provider takes reasonable measures to protect information processed by the Application. However, no method of electronic transmission or storage is completely secure, and the Service Provider cannot guarantee absolute security.
 
 ### Changes
 
-This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
+This Privacy Policy may be updated from time to time. The Service Provider will notify users of changes by updating this page with the new Privacy Policy. Users are advised to review this Privacy Policy periodically.
 
 ### Contact Us
 
-If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider at musa561128@gmail.com.
+If you have any questions regarding privacy while using the Application, or have questions about the Service Provider's practices, please contact the Service Provider at musa561128@gmail.com.
 
 ---
 
 ## 日本語 (Japanese)
 
-本プライバシーポリシーは、開発者（以下「サービス提供者」）がフリーミアムサービスとして作成したAndroidおよびiOS向けモバイルアプリケーション「AB-730 Exam Prep」（以下「本アプリ」）に適用されます。本サービスは「現状有姿」で提供されます。
+本プライバシーポリシーは、AndroidおよびiOS向けモバイルアプリケーション「AB-730 Exam Prep」（以下「本アプリ」）に適用されます。本アプリは、開発者（以下「サービス提供者」）がフリーミアムサービスとして提供するものであり、「現状有姿」で提供されます。
 
 ### 情報の収集と利用
 
-本アプリは、ダウンロード時および利用時に情報を収集します。この情報には以下のようなものが含まれる場合があります：
-*   デバイスのインターネットプロトコルアドレス（IPアドレス等）
-*   本アプリ内で訪問したページ、訪問日時、ページでの滞在時間
-*   本アプリの利用時間
-*   モバイルデバイスで使用しているオペレーティングシステム
+本アプリは、ユーザー登録を必要とせず、氏名、住所、電話番号、メールアドレスなど、ユーザーを直接特定する情報を意図的に収集しません。
 
-本アプリは、モバイルデバイスの正確な位置情報は収集しません。
+本アプリは、機能の提供および改善のため、以下の情報を処理する場合があります。
 
-サービス提供者は、重要な情報および必要な通知を提供するために、提供された情報を利用して随時お客様に連絡する場合があります。
+* 学習進捗、クイズ結果、選択した回答、アプリ設定などの利用情報
+* 端末種別、OSバージョン、アプリバージョン、クラッシュ情報または診断情報などの技術情報
+* 有料機能の利用可否を確認するために必要な購入状態情報
+* AIチャットや回答解説などのAI機能を利用する際にユーザーが入力したテキスト
 
-本アプリをより良くご利用いただくため、サービス提供者は特定の個人識別情報の提供をお願いする場合があります。サービス提供者が要求する情報は、本プライバシーポリシーに記載されている通りに保持および利用されます。
+学習進捗、クイズ結果、選択した回答、アプリ設定は、主にユーザーの端末内に保存されます。サービス提供者は、個人データを販売しません。
+
+本アプリは、ユーザー端末の正確な位置情報を収集しません。
 
 ### 広告
 
 本アプリは、第三者広告を表示せず、広告SDKを使用しません。
 
-### サードパーティのアクセス
+### 第三者サービス
 
-匿名の集計データのみが定期的に外部サービスに送信され、本アプリやサービスの向上に役立てられます。サービス提供者は、本プライバシーポリシーに記載されている方法で第三者と情報を共有する場合があります。
+本アプリは、プラットフォーム機能、購入処理、信頼性の向上、AI機能の提供のために、第三者サービスを利用する場合があります。これらのサービスは、それぞれのプライバシーポリシーに従ってデータを処理する場合があります。
 
-本アプリは、データの取り扱いに関する独自のプライバシーポリシーを持つサードパーティのサービスを利用しています。本アプリで使用されているサードパーティのサービス提供者のプライバシーポリシーへのリンクは以下の通りです：
+本アプリで利用される第三者サービスには、以下が含まれる場合があります。
 
-*   [Google Play 開発者サービス](https://policies.google.com/privacy)
-*   [Apple App Store / In-App Purchase](https://www.apple.com/legal/privacy/)
-*   [Google AI/Gemini API](https://policies.google.com/privacy) （アプリ内のAIチャット機能に使用）
+* [Google Play 開発者サービス](https://policies.google.com/privacy)（Androidのプラットフォーム機能）
+* [Google Play Billing](https://payments.google.com/payments/apis-secure/get_legal_document?ldo=0&ldt=privacynotice)（Androidのアプリ内購入）
+* [Apple App Store / In-App Purchase](https://www.apple.com/legal/privacy/)（iOSのプラットフォーム機能およびアプリ内購入）
+* [Google AI / Gemini API](https://policies.google.com/privacy)（AIチャットや回答解説などのAI機能）
 
-また、本アプリはアプリ内購入の処理に、Androidでは Google Play Billing、iOSではAppleのアプリ内購入システムを利用する場合があります。サービス提供者がお客様の支払い情報を直接収集・保存することはありません。この情報は、利用するプラットフォームに応じてGoogleまたはAppleによって安全に収集され処理されます。
+ユーザーがAI機能を利用する場合、ユーザーが入力したテキストおよび回答生成に必要な文脈情報が Google AI / Gemini API に送信される場合があります。AI機能には、個人情報、機密情報、またはセンシティブな情報を入力しないでください。
 
-### オプトアウト権
+アプリ内購入に関して、サービス提供者がお客様の支払いカード情報を直接収集または保存することはありません。支払い情報は、利用するプラットフォームに応じてGoogleまたはAppleにより処理されます。
 
-本アプリをアンインストールすることで、本アプリによるすべての情報の収集を簡単に停止することができます。モバイルデバイスで利用可能な標準のアンインストール手順をご利用ください。
+### データの保持と削除
 
-### データの保持ポリシー
+本アプリ内にローカル保存されるデータは、ユーザーが削除、アプリデータのリセット、または本アプリのアンインストールを行うまで、ユーザーの端末内に保持されます。
 
-サービス提供者は、お客様が本アプリを使用している期間、およびその後妥当な期間、ユーザー提供データを保持します。本アプリを通じて提供したユーザー提供データの削除をご希望の場合は、お問い合わせいただければ妥当な期間内に対応いたします。
+ユーザーがメールでサービス提供者に問い合わせた場合、サービス提供者は、問い合わせへの対応およびサポート記録の維持に合理的に必要な期間、連絡先情報および問い合わせ内容を保持する場合があります。
+
+サービス提供者に直接提供したデータの削除を希望する場合は、下記のお問い合わせ先までご連絡ください。サービス提供者は合理的な期間内に対応します。
+
+### オプトアウト
+
+ユーザーは、本アプリをアンインストールすることで、本アプリによる情報の収集または処理を停止できます。また、AI機能に入力したテキストが第三者のAIサービスで処理されることを希望しない場合は、任意のAI機能を使用しないことができます。
 
 ### 子供
 
-サービス提供者は、13歳未満の子供から意図的にデータを収集したり、子供向けにマーケティングを行うために本アプリを使用したりすることはありません。
+本アプリは、13歳未満の子供を対象としていません。サービス提供者は、13歳未満の子供から個人を特定できる情報を意図的に収集しません。
 
-本アプリは、13歳未満の子供を対象としていません。13歳未満の子供から個人識別情報を意図的に収集することはありません。13歳未満の子供が個人情報を提供したことが判明した場合、サービス提供者は直ちにこれをサーバーから削除します。保護者の方で、お子様が当社に個人情報を提供していることにお気付きの際は、必要な措置を講じることができるよう、サービス提供者までご連絡ください。
+13歳未満の子供が個人情報を提供したことをサービス提供者が認識した場合、サービス提供者は当該情報を削除するため合理的な措置を講じます。保護者の方で、お子様が個人情報を提供したと思われる場合は、サービス提供者までご連絡ください。
 
 ### セキュリティ
 
-サービス提供者は、お客様の情報の機密性を保護することに関心を持っています。提供者は、処理および維持する情報を保護するために、物理的、電子的、および手続き的な保護措置を提供します。
+サービス提供者は、本アプリで処理される情報を保護するため、合理的な措置を講じます。ただし、電子的な送信または保存の方法は完全に安全であるとは限らず、絶対的な安全性を保証することはできません。
 
 ### 変更
 
-本プライバシーポリシーは、いかなる理由であっても随時更新される場合があります。サービス提供者は、新しいプライバシーポリシーでこのページを更新することにより、プライバシーポリシーの変更を通知します。継続的な利用はすべての変更の承認と見なされるため、変更がないか定期的にこのプライバシーポリシーを確認することをお勧めします。
+本プライバシーポリシーは、随時更新される場合があります。サービス提供者は、このページを新しいプライバシーポリシーで更新することにより、変更を通知します。ユーザーは、定期的に本プライバシーポリシーを確認することをお勧めします。
 
 ### お問い合わせ
 
-本アプリ利用時のプライバシーに関してご質問がある場合、または当社の実務についてご質問がある場合は、サービス提供者（musa561128@gmail.com）にお問い合わせください。
+本アプリ利用時のプライバシーに関するご質問、またはサービス提供者の取り扱いに関するご質問がある場合は、musa561128@gmail.com までお問い合わせください。

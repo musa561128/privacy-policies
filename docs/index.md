@@ -9,6 +9,4 @@ Please select the application below to view its Privacy Policy:
 - [AB-730 Exam Prep (AB-730模試)](ab-730-exam-prep)
 - [PL-900 Exam Prep (PL-900模試)](pl-900-exam-prep)
 - [PMP Prep (PMP模試)](pmp-prep)
-
----
-*If you are looking for the AI Face Mosaic privacy policy, it will be uploaded here shortly.*
+- [AI Face Mosaic (AI顔モザイク)](ai-face-mosaic)
