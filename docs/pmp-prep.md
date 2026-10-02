@@ -1,6 +1,6 @@
 # Privacy Policy / プライバシーポリシー
 
-**Effective Date / 発効日:** June 17, 2026
+**Effective Date / 発効日:** October 2, 2026
 
 ---
 
@@ -38,7 +38,7 @@ Third-party services used by the Application may include:
 * [Apple App Store / In-App Purchase](https://www.apple.com/legal/privacy/) (iOS platform services and in-app purchases)
 * [Google AI / Gemini API](https://policies.google.com/privacy) (AI-powered functionality, such as AI chat or answer explanations)
 
-When the user uses AI-powered functionality, the text entered by the user and the context necessary to generate a response may be sent to Google AI / Gemini API. Users should not enter personal, confidential, or sensitive information into AI-powered features.
+Optional AI questions send your input, recent conversation and quiz context through Firebase AI Logic to Google's Gemini service. App Check also processes app/device security verification information. Technical information and service usage metrics may be processed to operate the services and prevent abuse; account-free use does not make all provider processing anonymous. The Service Provider has excluded new AI Model detail logs from its Cloud Logging sink, but this does not delete past logs or prevent Google's separate limited safety, security and legal retention. Avoid entering personal or confidential information. Starting with version 1.0.25, the first AI request requires an adult declaration and explicit agreement. A disclosure-version marker is stored only on the device; no age, date of birth or consent event is sent. Agreement can be revoked under About AI use to stop subsequent AI requests, not to withdraw prior requests or erase provider records. Ordinary practice and purchased features do not require AI use.
 
 For in-app purchases, the Service Provider does not directly collect or store payment card information. Payment information is processed by Google or Apple, depending on the platform used.
 
@@ -56,9 +56,7 @@ Users can stop the Application from collecting or processing information by unin
 
 ### Children
 
-The Application is not directed to children under the age of 13. The Service Provider does not knowingly collect personally identifiable information from children under 13 years of age.
-
-If the Service Provider becomes aware that a child under 13 has provided personal information, the Service Provider will take reasonable steps to delete such information. If you are a parent or guardian and believe that your child has provided personal information, please contact the Service Provider.
+The Application is intended for adults aged 18 or older and is not directed to individuals under 18. Its store distribution is intended for an adult audience. The Service Provider does not knowingly collect personally identifiable information from individuals under 18. If you are a parent or guardian and believe that a minor has provided personal information, please contact the Service Provider. The Service Provider will take reasonable steps concerning information under its control; data processed or retained by Google or Apple remains subject to the applicable provider's terms and procedures.
 
 ### Security
 
@@ -108,7 +106,7 @@ If you have any questions regarding privacy while using the Application, or have
 * [Apple App Store / In-App Purchase](https://www.apple.com/legal/privacy/)（iOSのプラットフォーム機能およびアプリ内購入）
 * [Google AI / Gemini API](https://policies.google.com/privacy)（AIチャットや回答解説などのAI機能）
 
-ユーザーがAI機能を利用する場合、ユーザーが入力したテキストおよび回答生成に必要な文脈情報が Google AI / Gemini API に送信される場合があります。AI機能には、個人情報、機密情報、またはセンシティブな情報を入力しないでください。
+任意のAI質問では、入力・直近の会話・問題文脈をFirebase AI Logic経由でGoogleのGeminiへ送信します。App Checkはアプリ/端末の安全性検証情報を処理します。サービス運用・不正防止のため技術情報や使用量指標も処理される場合があり、ログイン不要でも提供者側の全処理が匿名になるとは限りません。サービス提供者はCloud Loggingで新しいAI Model詳細ログを除外していますが、過去ログの削除やGoogle側の安全性・セキュリティ・法令対応のための限定保持を停止するものではありません。個人情報や機密情報は入力しないでください。1.0.25以降では初めてAIへ質問するとき、18歳以上の自己申告と明示同意を求めます。説明版markerのみ端末内に保存し、年齢・生年月日・同意イベントは送信しません。「AI利用について」から撤回すると、その後のAI送信を停止します。過去の送信取消や提供者記録の消去ではありません。通常演習・購入済み機能はAIなしで利用できます。
 
 アプリ内購入に関して、サービス提供者がお客様の支払いカード情報を直接収集または保存することはありません。支払い情報は、利用するプラットフォームに応じてGoogleまたはAppleにより処理されます。
 
@@ -126,9 +124,7 @@ If you have any questions regarding privacy while using the Application, or have
 
 ### 子供
 
-本アプリは、13歳未満の子供を対象としていません。サービス提供者は、13歳未満の子供から個人を特定できる情報を意図的に収集しません。
-
-13歳未満の子供が個人情報を提供したことをサービス提供者が認識した場合、サービス提供者は当該情報を削除するため合理的な措置を講じます。保護者の方で、お子様が個人情報を提供したと思われる場合は、サービス提供者までご連絡ください。
+本アプリは18歳以上の成人を対象としており、18歳未満の方を対象とした配信ではありません。サービス提供者は18歳未満の方から個人を特定できる情報を意図的に収集しません。保護者の方で、未成年者が個人情報を提供したと思われる場合はサービス提供者までご連絡ください。サービス提供者が管理する情報について合理的な措置を講じます。GoogleまたはAppleが処理・保持する情報には、それぞれの提供者の規約と手続きが適用されます。
 
 ### セキュリティ
 
