@@ -36,7 +36,7 @@ The Application uses or may use the following third-party services. These servic
 * [Firebase](https://firebase.google.com/support/privacy) (exam-content delivery, App Check, and AI functionality)
 * [Google AI / Gemini](https://policies.google.com/privacy) (AI-powered explanations and chat through Firebase AI Logic)
 
-When the user invokes an AI-powered feature, the text entered by the user and the question context necessary to generate a response are sent through Firebase AI Logic to Google AI / Gemini. Users should not enter personal, confidential, or sensitive information into AI-powered features.
+When the user invokes an AI-powered feature, the user's question, recent conversation, and question context necessary to generate a response are sent through Firebase AI Logic to Google AI / Gemini. Users should not enter personal, confidential, or sensitive information into AI-powered features.
 
 Firebase App Check uses Google Play Integrity on Android and App Attest on iOS to help confirm that requests originate from the genuine Application. These services may process device or app integrity signals; the Service Provider does not use them to identify users personally.
 
@@ -52,7 +52,7 @@ To request deletion of data provided directly to the Service Provider, please us
 
 ### Opt-Out Rights
 
-Users can stop the Application from processing information by uninstalling it. Users may avoid optional AI-powered features if they do not want text or question context processed by third-party AI services.
+Users can stop the Application from processing information by uninstalling it. AI features are optional. Before the first use of AI, the Application asks users to confirm that they are 18 or older and consent to sending the information described above to Google. Users can select "Revoke AI permission" in the AI panel to stop future AI requests. Quizzes and purchased features remain available if users decline or revoke permission. Revoking permission does not mean that data previously sent to Google is deleted.
 
 ### Children
 
@@ -106,7 +106,7 @@ For questions about privacy or the Service Provider's practices, contact musa561
 * [Firebase](https://firebase.google.com/support/privacy)（試験コンテンツ配信、App Check、AI機能）
 * [Google AI / Gemini](https://policies.google.com/privacy)（Firebase AI Logicを通じたAI解説およびAIチャット）
 
-ユーザーがAI機能を利用した場合、ユーザーが入力したテキストおよび回答生成に必要な問題の文脈情報が、Firebase AI Logicを通じてGoogle AI / Geminiへ送信されます。AI機能には、個人情報、機密情報、またはセンシティブな情報を入力しないでください。
+ユーザーがAI機能を利用した場合、ユーザーの質問、直近の会話および回答生成に必要な問題の文脈情報が、Firebase AI Logicを通じてGoogle AI / Geminiへ送信されます。AI機能には、個人情報、機密情報、またはセンシティブな情報を入力しないでください。
 
 Firebase App Checkは、AndroidではGoogle Play Integrity、iOSではApp Attestを使用して、正規の本アプリからのリクエストであることを確認します。これらのサービスは端末またはアプリの完全性シグナルを処理する場合がありますが、サービス提供者はユーザーを個人として特定する目的には使用しません。
 
@@ -122,7 +122,7 @@ AIへの入力内容と関連する文脈情報は、適用される第三者サ
 
 ### オプトアウト
 
-ユーザーは、本アプリをアンインストールすることで情報の処理を停止できます。また、入力テキストや問題の文脈情報が第三者のAIサービスで処理されることを希望しない場合は、任意のAI機能を使用しないことができます。
+ユーザーは、本アプリをアンインストールすることで情報の処理を停止できます。AI機能は任意です。AIを初めて利用する際に、18歳以上であることと、上記の情報をGoogleへ送信することへの同意を確認します。AI欄の「AI利用の許可を取り消す」を選ぶと、以後のAI送信を停止できます。同意を拒否・撤回した後も、演習と購入済み機能は引き続き利用できます。同意の撤回は、過去にGoogleへ送信したデータの削除を意味しません。
 
 ### 子供
 
