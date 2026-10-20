@@ -38,7 +38,7 @@ Third-party services used by the Application may include:
 * [Apple App Store / In-App Purchase](https://www.apple.com/legal/privacy/) (iOS platform services and in-app purchases)
 * [Google AI / Gemini API](https://policies.google.com/privacy) (AI-powered functionality, such as AI chat or answer explanations)
 
-When the user uses AI-powered functionality, the text entered by the user and the context necessary to generate a response may be sent to Google AI / Gemini API. Users should not enter personal, confidential, or sensitive information into AI-powered features.
+AI-powered features are optional and are available only to users who confirm that they are 18 or older and agree to the in-app AI data notice. When you send an AI question, your question, recent conversation, and relevant quiz context (question, answer choices, correct answer, explanation, and response language) are sent to Google through Firebase AI Logic using the Gemini Developer API to generate a reply. Do not enter personal, confidential, or sensitive information. You can practise without enabling AI. The confirmation is recorded locally in this app; it is not an identity or date-of-birth check.
 
 For in-app purchases, the Service Provider does not directly collect or store payment card information. Payment information is processed by Google or Apple, depending on the platform used.
 
@@ -52,11 +52,13 @@ If the user would like to request deletion of data provided directly to the Serv
 
 ### Opt-Out Rights
 
-Users can stop the Application from collecting or processing information by uninstalling the Application. Users may also avoid using optional AI-powered features if they do not want text entered into those features to be processed by third-party AI services.
+You can leave AI disabled and continue practising. After enabling AI, you can select “Revoke AI permission” in the AI panel to block new AI requests until you enable AI again. Accepting the notice alone does not send a question. Revoking permission does not send a request to delete information already processed by Google. Google’s handling of AI input and responses is governed by the applicable Gemini API terms and privacy information.
 
 ### Children
 
 The Application is not directed to children under the age of 13. The Service Provider does not knowingly collect personally identifiable information from children under 13 years of age.
+
+AI-powered features are restricted to users who confirm that they are 18 or older. This is a self-confirmation for AI access; the app does not ask for a date of birth as part of this confirmation. Users can practise without enabling AI.
 
 If the Service Provider becomes aware that a child under 13 has provided personal information, the Service Provider will take reasonable steps to delete such information. If you are a parent or guardian and believe that your child has provided personal information, please contact the Service Provider.
 
@@ -108,7 +110,7 @@ If you have any questions regarding privacy while using the Application, or have
 * [Apple App Store / In-App Purchase](https://www.apple.com/legal/privacy/)（iOSのプラットフォーム機能およびアプリ内購入）
 * [Google AI / Gemini API](https://policies.google.com/privacy)（AIチャットや回答解説などのAI機能）
 
-ユーザーがAI機能を利用する場合、ユーザーが入力したテキストおよび回答生成に必要な文脈情報が Google AI / Gemini API に送信される場合があります。AI機能には、個人情報、機密情報、またはセンシティブな情報を入力しないでください。
+AI機能は任意で、18歳以上であることを自己確認し、アプリ内のAIデータ説明に同意した方のみ利用できます。AIへの質問を送信すると、入力した質問、直近の会話、および関連する問題文脈（問題文、選択肢、正答、解説、回答言語）が、回答生成のためFirebase AI Logicを通じてGoogleのGemini Developer APIへ送信されます。個人情報、機密情報、センシティブな情報は入力しないでください。AIを有効にしなくても問題演習を利用できます。確認結果は本アプリ内にローカル保存されます。この確認は本人確認や生年月日の確認ではありません。
 
 アプリ内購入に関して、サービス提供者がお客様の支払いカード情報を直接収集または保存することはありません。支払い情報は、利用するプラットフォームに応じてGoogleまたはAppleにより処理されます。
 
@@ -122,11 +124,13 @@ If you have any questions regarding privacy while using the Application, or have
 
 ### オプトアウト
 
-ユーザーは、本アプリをアンインストールすることで、本アプリによる情報の収集または処理を停止できます。また、AI機能に入力したテキストが第三者のAIサービスで処理されることを希望しない場合は、任意のAI機能を使用しないことができます。
+AIを有効にせず、問題演習を続けることができます。有効にした後は、AI画面の「AI利用の許可を取り消す」で、再び有効にするまで新たなAIリクエストを停止できます。説明に同意するだけでは質問は送信されません。許可の取り消しによって、Googleが既に処理した情報の削除を依頼することはありません。AIの入力と応答に関するGoogleの取り扱いには、適用されるGemini APIの利用条件およびプライバシー情報が適用されます。
 
 ### 子供
 
 本アプリは、13歳未満の子供を対象としていません。サービス提供者は、13歳未満の子供から個人を特定できる情報を意図的に収集しません。
+
+AI機能は、18歳以上であることを自己確認した方のみ利用できます。これはAI利用のための自己確認であり、この確認のために生年月日の入力を求めることはありません。AIを有効にしなくても問題演習を利用できます。
 
 13歳未満の子供が個人情報を提供したことをサービス提供者が認識した場合、サービス提供者は当該情報を削除するため合理的な措置を講じます。保護者の方で、お子様が個人情報を提供したと思われる場合は、サービス提供者までご連絡ください。
 
