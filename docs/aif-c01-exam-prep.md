@@ -1,14 +1,15 @@
 # Privacy Policy / プライバシーポリシー
 
-**Effective Date / 発効日:** October 25, 2026 / 2026-10-25 (UTC)
+**Effective Date / 発効日:** November 14, 2026 / 2026-11-14 (UTC)
 
 ---
 
 ## English
 
 This policy applies to AIF-C01 Exam Prep for Android and iOS, an independent exam-practice app
-provided by the developer. The app is intended for adults aged 18 and over. No in-app user account
-is required. Optional AI use requires separate age 18 confirmation and consent to data transfer.
+provided by the developer for certification learners. The app is not directed to children under 13.
+No in-app user account is required. You can use ordinary practice without enabling AI. Optional AI
+features are available only to users who confirm that they are 18 or older and consent to data transfer.
 
 ### Learning and technical information
 
@@ -46,6 +47,8 @@ exclusion intended to prevent model input/output from being stored in its Cloud 
 Operational metrics, traces and other service information are separate and follow the relevant
 [Firebase monitoring policies](https://firebase.google.com/docs/ai-logic/monitoring).
 This exclusion does not prove deletion of past information or zero retention throughout all services.
+The developer does not manually save, analyse or share AI input/output beyond the existing
+Firebase/Google processing described here.
 
 ### Purchases
 
@@ -55,6 +58,8 @@ access marker after signed purchase verification and acknowledgment; that cache 
 purchase tokens or signed receipts. This is client-side verification. iOS uses StoreKit entitlements.
 The developer does not directly collect payment-card information through an app payment form.
 Actual purchase processing and store records are governed by the relevant platform's policies.
+The developer uses Apple sales reports for accounting and keeps them for as long as needed for
+that purpose. This is separate from the app's handling of payment-card information.
 
 ### Retention, deletion and contact
 
@@ -75,18 +80,20 @@ for the period reasonably needed to respond and maintain support records. Privac
 the developer can be sent to musa561128@gmail.com. Provider/store-held records and OS backups are
 subject to their own controls. We do not guarantee immediate deletion or a specific response time.
 
-We use reasonable safeguards, but absolute security cannot be guaranteed. We do not direct this app
-to people under 18. If we learn that a minor has provided personal information directly to the developer,
-we will take reasonable steps to address it through the stated contact process. Policy changes will
-be reflected on this page.
+We use reasonable safeguards, but absolute security cannot be guaranteed. The app is not directed
+to children under 13, and the developer does not knowingly collect personally identifiable information
+from children under 13. If we learn that a child under 13 has provided personal information directly
+to the developer, we will take reasonable steps to delete it through the stated contact process.
+Policy changes will be reflected on this page.
 
 ---
 
 ## 日本語
 
 本ポリシーは、開発者が提供するAndroid/iOS向けの独立した試験演習アプリ
-「AIF-C01 Exam Prep」に適用されます。本アプリは18歳以上の成人を対象とし、アプリ独自の
-利用者登録は不要です。任意のAI利用には、別途18歳以上の確認とデータ送信への同意が必要です。
+「AIF-C01 Exam Prep」に適用されます。本アプリは資格試験の学習者向けで、13歳未満の子供を対象としていません。
+アプリ独自の利用者登録は不要です。AIを有効にしなくても通常の問題演習を利用できます。
+任意のAI機能は、18歳以上であることを自己確認し、データ送信に同意した方のみ利用できます。
 
 ### 学習情報と技術情報
 
@@ -122,6 +129,7 @@ GoogleによるAI入出力の利用・保持は、適用されるサービス・
 保存しないための除外設定も有効にしています。運用指標・追跡情報等は別の情報であり、関連する
 [Firebaseモニタリングの説明](https://firebase.google.com/docs/ai-logic/monitoring)が適用されます。
 この除外は、過去の情報の削除や、全サービスでの保持ゼロを証明するものではありません。
+開発者は、ここに記載した既存のFirebase／Googleによる処理以外に、AI入出力を手動で保存・分析・共有しません。
 
 ### 購入
 
@@ -131,6 +139,8 @@ GoogleによるAI入出力の利用・保持は、適用されるサービス・
 署名済み購入証明は保持しません。これは端末内の検証です。iOSはStoreKitの利用権を使います。
 開発者はアプリ独自の支払画面でカード情報を直接収集しません。
 実際の購入処理・ストア記録には各プラットフォームの条件が適用されます。
+開発者はAppleの売上レポートを会計管理に利用し、その目的に必要な期間保持します。
+これはアプリによる支払カード情報の取扱いとは別です。
 
 ### 保持・削除・問い合わせ
 
@@ -150,6 +160,7 @@ GoogleによるAI入出力の利用・保持は、適用されるサービス・
 提供元・ストアの記録やOS バックアップには、それぞれの管理操作が適用されます。
 即時の削除や一定期限内の回答は保証しません。
 
-合理的な安全対策を講じますが、絶対的な安全性は保証できません。本アプリは18歳未満を対象としません。
-未成年が開発者へ直接個人情報を提供したと認識した場合は、上記窓口を通じ合理的な対応を行います。
+合理的な安全対策を講じますが、絶対的な安全性は保証できません。本アプリは13歳未満の子供を対象としておらず、
+13歳未満の子供から個人を特定できる情報を意図的に収集しません。13歳未満の子供が開発者へ直接
+個人情報を提供したと認識した場合は、上記窓口を通じ、当該情報を削除するため合理的な措置を講じます。
 取扱いに変更がある場合は本ページに反映します。
