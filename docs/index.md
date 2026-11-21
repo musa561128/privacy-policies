@@ -13,3 +13,4 @@ Please select the application below to view its Privacy Policy:
 - [PL-900 Exam Prep (PL-900模試)](pl-900-exam-prep)
 - [PMP Prep (PMP模試)](pmp-prep)
 - [AI Face Mosaic (AI顔モザイク)](ai-face-mosaic)
+- [GH-300 Exam Prep for iOS (GH-300模試)](gh-300-exam-prep)
